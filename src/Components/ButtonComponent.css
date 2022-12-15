@@ -1,0 +1,9 @@
+.button-color {
+  background-color: blue;
+  color: red;
+  transition: all 0.1s;
+}
+
+.button-color:hover {
+  background-color: black;
+}
